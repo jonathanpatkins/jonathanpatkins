@@ -2,6 +2,9 @@
 
 My name is Jonathan Atkins and I am a third year student at UC Berkeley from San Jose. I like playing around with building websites and design. You can find me on [Linkedin](https://www.linkedin.com/in/jonathan-atkins-292174192/).
 
+The last cool thing I built was the [Pioneers in Engineering Website](https://pioneers.berkeley.edu/). 
+
+
 
 ## 🔧 Technologies & Tools
 
